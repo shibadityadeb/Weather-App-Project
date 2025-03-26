@@ -1,12 +1,28 @@
-# React + Vite
+🌤 Weather App
+Live Demo: https://onlineweathercheck.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 About
+This is a sleek Weather App that provides real-time weather updates for any city worldwide. It features a modern UI, a dynamic weather background, and a transparent weather card with an abstract design.
 
-Currently, two official plugins are available:
+🔥 Features
+✅ Real-time Weather Data (Temperature, Humidity, Wind Speed, and more)
+✅ Dynamic Weather Icons & Backgrounds
+✅ Search Functionality
+✅ User-friendly UI with AI-Enhanced Design
+✅ Error Handling & Loading Indicators
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Technologies Used
+Frontend: React.js, HTML, CSS
 
-## Expanding the ESLint configuration
+API: OpenWeatherMap API
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Styling: Custom CSS with modern UI elements
+
+Hosting: Netlify
+
+AI Tools Used: Various AI-powered tools for improving UI/UX design
+
+📡 API Used
+OpenWeatherMap API (for fetching real-time weather data)
+
+👨‍💻 Made with ❤️ by Shibaditya Deb
